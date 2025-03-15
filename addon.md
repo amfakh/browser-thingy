@@ -2,6 +2,7 @@
 
 * [1Password](https://1password.com/downloads/browser-extension) - Pass Manager
 * [Clear URLs](https://github.com/ClearURLs/Addon) - Remove Tracking
+* [Country Flags & IP Whois](https://webextension.org/listing/country-flags.html?version=0.6.5&type=install) - Show Country Flag
 * [Dark Reader](https://darkreader.org/) - Dark Mode
 * [NopeCHA](https://nopecha.com/) - CAPTCHA Solver
 * [Torrent Control](https://docs.ultra.cc/torrent-clients/remote-torrent-adder-and-torrent-control) - Add Torrents to Seedbox
