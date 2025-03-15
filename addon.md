@@ -33,8 +33,7 @@
 ## General
 
 * [!Magic Userscripts](https://greasyfork.org/en/scripts/421603-magic-userscript-show-site-all-userjs) - Show all UserJS on a site
-
-
+---
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me)
 * [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site"
 * [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links
