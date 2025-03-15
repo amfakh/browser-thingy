@@ -38,7 +38,7 @@
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me)
 * [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site"
 * [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links
-* [Pagetual](https://pagetual.hoothin.com/) - Infinite Scroll on Pagination
+* [Pagetual](https://pagetual.hoothin.com/setup.html) - Infinite Scroll on Pagination
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E6%94%B9) - Right Click Enabler etc.
 
 ## Ads
